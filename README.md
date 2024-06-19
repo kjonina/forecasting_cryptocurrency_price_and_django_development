@@ -8,7 +8,7 @@ To be completed
 
 ## Django Web-Development
 
-<img src='https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development/blob/main/graphs/simple_graph.PNG'/></a>
+<img src='https://github.com/kjonina/forecasting_cryptocurrency_price_and_django_development/blob/main/Graphs/simple_graph.PNG'/></a>
 
 
 ### Outcomes:
