@@ -35,11 +35,11 @@ The solution involved designing and building a Django-based web application that
 
 ### Forecasting Figures
 
-##### Prophet prediction for test set for 70 days
+#### Prophet prediction for test set for 70 days
 <img src='Graphs/forecasting_ARIMA.png'/></a>
 
-##### ARIMA prediction for test set for 70 days
+#### ARIMA prediction for test set for 70 days
 <img src='Graphs/forecasting_Prophet.png'/></a>
 
 ##### The PACF and ACF plots show no autocorrelation for Logged Close Difference
-<img src='Graphs/forecasting_PACF_and_ACF_plots.PNG'/></a>
+<img src='Graphs/forecasting_PACF_and_ACF_plots.png'/></a>
